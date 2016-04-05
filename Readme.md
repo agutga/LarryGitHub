@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Antonio G  **, Git lover  sadas
+**Antonio G  **, Git lover
